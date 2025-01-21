@@ -3,11 +3,6 @@
 ## Overview
 This repository curates a list of AI agents, categorized into open-source projects and closed-source projects/companies. The list aims to help developers and enthusiasts explore available AI agent solutions. 
 
-### Web Interface
-- 🌟 [View this list on the web](https://e2b.dev/ai-agents)
-- 👉 [Submit a new product](https://forms.gle/UXQFCogLYrPFvfoUA)
-
-![AI Agents Landscape](assets/landscape-latest.png)
 
 ---
 
