@@ -146,5 +146,11 @@ Optimizable graph-based AI agents.
 
 ---
 
+## External Links
+
+- [Productivity AI Agents](https://productivity.directory/category/ai-agents)
+- [Top AI Agents](https://ohmyaiagent.com)
+- [There's an AI](https://theresanai.com/)
+
 For a comprehensive list, check the [full repository](https://github.com/aylar-ghezelbash/awesome-ai-agents).
 
